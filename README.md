@@ -5,7 +5,7 @@
 📍 Meerut, UP  
 
 ## 🛠️ Tech Stack
-Java | Spring Boot | Spring Security | JWT | JPA | PostgreSQL
+Java | Spring Boot | Spring Security | JWT | JPA | PostgreSQL.
 
 ## 🚀 Projects
 - 🏥 [Hospital Management System](https://github.com/ArpitTyagi0001/hospital-management-system-backend)
