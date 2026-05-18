@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arpit Tyagi</h1>
 <h3 align="center">A passionate java backend and cloud developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://https://camo.githubusercontent.com/7b4a7ef17e0587dc6d9a33f0dc6538b0d6f7ece73bfd497e31a48b14b1200936/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38312f31372f38622f38313137386234376138353938663063383163343739396632636464343035372e676966">
-
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpittyagi0001&label=Profile%20views&color=0e75b6&style=flat" alt="arpittyagi0001" /> </p>
 
