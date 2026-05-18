@@ -24,5 +24,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpittyagi0001&" alt="arpittyagi0001" /></p>
 
+<h3 align="left">GitHub Activity Graph:</h3>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arpittyagi0001&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true" />
 
