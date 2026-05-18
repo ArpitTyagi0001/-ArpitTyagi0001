@@ -6,6 +6,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpittyagi0001" alt="arpittyagi0001" /></a> </p>
 
+- 🔭 I’m currently working on **Real time dashboard system**
+
+- 🌱 I’m currently learning **Aws cloud and Apache kafka**
+
+- 💬 Ask me about **Java backend devlopment**
+
+- 📫 How to reach me **arpittyagi@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arpit-tyagi0001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpit-tyagi0001/" height="30" width="40" /></a>
@@ -21,5 +29,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpittyagi0001&show_icons=true&locale=en" alt="arpittyagi0001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpittyagi0001&" alt="arpittyagi0001" /></p>
+
 
 
