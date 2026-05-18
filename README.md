@@ -19,7 +19,7 @@
 - 💬 Ask me about **Java Backend Development**
 
 
-- 📫 How to reach me **arpittyagi@gmail.com**
+- 📫 How to reach me **arpittyagi389@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
@@ -111,7 +111,7 @@
 </p>
 
 
-<h3 align="center">🔥 GitHub Streak</h3>
+<h3 align="left">🔥 GitHub Streak :</h3>
 
 
 <p align="center">
